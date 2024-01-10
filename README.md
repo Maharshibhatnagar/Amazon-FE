@@ -1,3 +1,3 @@
 # Amazon-FE
 
-contains amazon frontend only
+Contains amazon frontend only. Used for DevOps projext
